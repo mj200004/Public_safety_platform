@@ -1,0 +1,21 @@
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Data & Reports (Keep directory, ignore contents)
+sample_data/*
+!sample_data/.gitkeep
+reports/*
+!reports/.gitkeep
+
+# OS generated files
+.DS_Store
+Thumbs.db
