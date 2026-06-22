@@ -1,5 +1,4 @@
 # 🛡️ Digital Public Safety Intelligence Platform
-**ET AI Hackathon 2026 | Problem Statement 6**
 
 An enterprise-grade, proactive AI intelligence layer designed to neutralize cross-border digital arrest syndicates and high-denomination counterfeit currency rings before mass victimization occurs.
 
